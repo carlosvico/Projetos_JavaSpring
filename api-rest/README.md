@@ -1,12 +1,12 @@
 ## Projeto simula o banco de dados de um forum de peguntas sobre tecnologia
-###Tendo como entidades:
+### Tendo como entidades:
 - `Mensagens`
 - `Usuários`
 - `Tópicos`
 - `Cursos` 
 <br>
 ### Nota
-  - Não é uma boa prática retornar entidades JPA nos métodos dos controllers <br> O mais indicado é retornar classes que seguem o padrão ***DTO*** `(Data Transfer Object)`
+  - Não é uma boa prática retornar entidades JPA nos métodos dos controllers <br> O mais indicado é retornar classes que seguem o padrão  DTO  `(Data Transfer Object)`
 
 ## Tecnologias Usadas:
 <br>
